@@ -1,0 +1,59 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="button_size">48dp</dimen>
+    <dimen name="list_font_size">18sp</dimen>
+    <dimen name="list_height_min">32dp</dimen>
+
+    <dimen name="base_margin">20dp</dimen>
+    <dimen name="margin_100">100dp</dimen>
+    <dimen name="margin_90">90dp</dimen>
+    <dimen name="margin_80">80dp</dimen>
+    <dimen name="margin_70">70dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="margin_50">50dp</dimen>
+    <dimen name="margin_55">55dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_35">35dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_45">45dp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_05">5dp</dimen>
+
+    <dimen name="textSize_28">24sp</dimen>
+    <dimen name="textSize_26">24sp</dimen>
+    <dimen name="textSize_24">24sp</dimen>
+    <dimen name="base_textSize">20sp</dimen>
+    <dimen name="textSize_12">12sp</dimen>
+    <dimen name="textSize_16">16sp</dimen>
+    <dimen name="textSize_18">18sp</dimen>
+
+    <dimen name="width">60dp</dimen>
+    <dimen name="drop_list_padding">16dp</dimen>
+    <dimen name="account_item_height">50dp</dimen>
+    <dimen name="drop_list_account_text_size">14sp</dimen>
+    <dimen name="delete_icon_size">14dp</dimen>
+    <dimen name="login_view_radius">4dp</dimen>
+    <dimen name="login_view_stroke">1dp</dimen>
+
+    <dimen name="login_view_margin">32dp</dimen>
+    <dimen name="login_view_height">44dp</dimen>
+    <dimen name="login_view_padding">16dp</dimen>
+    <dimen name="login_icon_right_margin">3dp</dimen>
+    <dimen name="login_view_text_size">13sp</dimen>
+    <dimen name="login_info_padding">32dp</dimen>
+    <dimen name="image_button_width">30dp</dimen>
+    <dimen name="login_edit_button_margin_right">6dp</dimen>
+    <dimen name="login_icon_edit_margin">16dp</dimen>
+    <dimen name="login_icon_info_margin">90dp</dimen>
+    <dimen name="login_edit_text_height">44dp</dimen>
+    <dimen name="btn_forget_pwd_register_text_size">14sp</dimen>
+    <dimen name="btn_text_size">16sp</dimen>
+    <dimen name="edit_text_margin">16dp</dimen>
+    <dimen name="edit_btn_margin">40dp</dimen>
+</resources>

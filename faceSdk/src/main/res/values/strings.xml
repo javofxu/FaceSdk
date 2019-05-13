@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FaceSDK</string>
+    <string name="addGroup">批量导入</string>
+    <string name="userGroup">人脸库管理</string>
+    <string name="synchronous">用户同步</string>
+    <string name="addUser">人脸注册</string>
+    <string name="image">人脸浏览</string>
+    <string name="face">人脸通行证</string>
+    <string name="face2">人脸识别</string>
+    <string name="setting">人脸设置</string>
+    <string name="detection">自动检测</string>
+    <string name="batch_delete">批量删除</string>
+    <string name="yulan">摄像头预览旋转角度设置</string>
+    <string name="jihuo">设备激活</string>
+    <string name="reminder">提示：建议先在设置中进行摄像头连接调试</string>
+
+    <string name="license_activate">设备激活</string>
+    <string name="license_application">应用激活</string>
+    <string name="license_application_reminder">应用激活：通过包名，签名在线申请License 文件至于asset下</string>
+    <string name="license_online">在线激活</string>
+    <string name="license_online_reminder">在线激活：输入序列号，保持设备联网，SDK会自动进行激活</string>
+    <string name="license_offline">离线激活</string>
+    <string name="license_offline_reminder">离线激活：将激活文件置于SD卡中，SDK会自动进行激活处理</string>
+
+    <string name="username">用户名</string>
+    <string name="nickname">昵称</string>
+
+    <string name="flow_path_title">本演示功能下支持批量导入人脸图片数据以录入到人脸库中，即批量注册。该过程不进行活体检测，仅执行批量人脸特征值生成及录入，每张图片提取一张最大人脸作为注册人脸，人脸图片较多时可能耗时较长，请耐心等待！</string>
+    <string name="flow_path_step_one_msg">PC通过USB连接本机，找到本机/sdcard目录下“Import Faces”目录，该目录下包含“Faces List.txt”及“FacePictures”目录</string>
+    <string name="flow_path_step_two_msg">“FacePictures”目录下存放人脸注册图片，可通过PC拷贝进来。在“Faces List.txt”如下图将姓名与图片名按对应格式填入</string>
+    <string name="flow_path_step_three_msg">准备就绪！注意原目录结构及目录/文件名称一定不要更改，如果一切操作无误，请点击下面“开始导入”按钮。（本程序安装后自带100张图片的批量导入示例，可直接点击体验）</string>
+    <string name="imports">开始导入</string>
+    <string name="face_start">正在启动人脸识别...</string>
+</resources>
