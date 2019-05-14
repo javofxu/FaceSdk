@@ -5,7 +5,6 @@ import android.content.res.TypedArray;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.RectF;
-import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -34,11 +33,11 @@ public class DrawView extends View {
         this(context, null);
     }
 
-    public DrawView(Context context, @Nullable AttributeSet attrs) {
+    public DrawView(Context context,AttributeSet attrs) {
         this(context, attrs, 0);
     }
 
-    public DrawView(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
+    public DrawView(Context context,AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
 
         TypedArray array = context.obtainStyledAttributes(attrs, R.styleable.DrawViewAttr);
